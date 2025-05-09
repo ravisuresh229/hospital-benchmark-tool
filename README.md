@@ -4,7 +4,7 @@ An interactive Streamlit web app for benchmarking hospital HCAHPS (Hospital Cons
 
 This tool allows users to compare a hospital’s patient experience metrics to state and national averages, visualize performance gaps, and export a professional PowerPoint report for presentations.
 
-<<<<<<< HEAD
+ HEAD
 ## ✅ Features
 
 * 📊 Interactive dashboard to compare **hospital vs. state vs. national** HCAHPS scores
@@ -66,8 +66,7 @@ Then open the app in your browser at [http://localhost:8501](http://localhost:85
 ## 📂 File Structure
 
 ```
-=======
----
+
 
 ## ✅ Features
 
@@ -78,7 +77,7 @@ Then open the app in your browser at [http://localhost:8501](http://localhost:85
 - 🖥️ Simple, user-friendly interface
 - ☁️ Works with publicly hosted CSV data from Dropbox (no local data upload required)
 
----
+
 
 ## 🚀 Getting Started
 
@@ -132,13 +131,13 @@ python-pptx – PowerPoint generation
 cpp
 Copy
 Edit
->>>>>>> 08546290e803cb166e9442669e7ae8273714f7fe
+ 08546290e803cb166e9442669e7ae8273714f7fe
 hospital-benchmark-tool/
 ├── streamlit_app.py
 ├── requirements.txt
 ├── README.md
 └── venv/ (optional local virtual environment)
-<<<<<<< HEAD
+HEAD
 ```
 
 ## 📝 Notes
@@ -155,10 +154,9 @@ Developed by **Ravi Suresh**
 
 Feel free to reach out with questions or collaboration opportunities!
 
----
 
 
-=======
+
 📝 Notes
 To deploy publicly, upload the app to Streamlit Cloud or another hosting service.
 
@@ -173,7 +171,5 @@ Developed by Ravi Suresh
 
 Feel free to reach out with questions or collaboration opportunities!
 
-yaml
-Copy
-Edit
->>>>>>> 08546290e803cb166e9442669e7ae8273714f7fe
+fix: remove merge conflict markers
+
