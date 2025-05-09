@@ -63,7 +63,6 @@ Then open the app in your browser at [http://localhost:8501](http://localhost:85
 
 ![App Screenshot 1](app_screenshot1.png)
 ![App Chart Screenshot 2](appchart_screenshot2.png)
-![App Table Screenshot 3](apptable_screenshot3.png)
 
 
 
