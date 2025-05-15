@@ -5,16 +5,16 @@ An interactive Streamlit web app for benchmarking hospital HCAHPS (Hospital Cons
 This tool allows users to compare a hospital’s patient experience metrics to state and national averages, visualize performance gaps, and export a professional PowerPoint report for presentations.
 
  
-## ✅ Features
+##  Features
 
-* 📊 Interactive dashboard to compare **hospital vs. state vs. national** HCAHPS scores
-* 📝 Select key patient experience metrics to analyze
-* 🎨 Visual bar charts with labeled values
-* 📥 Download a **PowerPoint report** with a formatted table and chart
-* 🖥️ Simple, user-friendly interface
-* ☁️ Works with publicly hosted CSV data from Dropbox (no local data upload required)
+*  Interactive dashboard to compare hospital vs. state vs. national HCAHPS scores
+*  Select key patient experience metrics to analyze
+*  Visual bar charts with labeled values
+*  Download a **PowerPoint report** with a formatted table and chart
+*  Simple, user-friendly interface
+*  Works with publicly hosted CSV data from Dropbox (no local data upload required)
 
-## 🚀 Getting Started
+## Getting Started
 
 1️⃣ Clone the repository:
 
@@ -52,28 +52,18 @@ Then open the app in your browser at [http://localhost:8501](http://localhost:85
 * Highlights areas where the hospital is above or below benchmarks
 * Option to **export a PowerPoint report** including the table and chart
 
-## 📄 Technologies Used
+## Technologies Used
 
 * Streamlit – Web app framework
 * Plotly – Visualization
 * Pandas – Data manipulation
 * python-pptx – PowerPoint generation
 
-## ✨ Example Output
+## Example Output
 
 ![App Screenshot 1](app_screenshot1.png)
 ![App Chart Screenshot 2](appchart_screenshot2.png)
 
-
-
-## ✅ Features
-
-- 📊 Interactive dashboard to compare **hospital vs. state vs. national** HCAHPS scores
-- 📝 Select key patient experience metrics to analyze
-- 🎨 Visual bar charts with labeled values
-- 📥 Download a **PowerPoint report** with a formatted table and chart
-- 🖥️ Simple, user-friendly interface
-- ☁️ Works with publicly hosted CSV data from Dropbox (no local data upload required)
 
 
 ## 📝 Notes
@@ -90,6 +80,4 @@ Developed by **Ravi Suresh**
 
 Feel free to reach out with questions or collaboration opportunities!
 
-
-fix: remove merge conflict markers
 
