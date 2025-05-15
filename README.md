@@ -10,7 +10,7 @@ This tool allows users to compare a hospital’s patient experience metrics to s
 *  Interactive dashboard to compare hospital vs. state vs. national HCAHPS scores
 *  Select key patient experience metrics to analyze
 *  Visual bar charts with labeled values
-*  Download a **PowerPoint report** with a formatted table and chart
+*  Download a PowerPoint report with a formatted table and chart
 *  Simple, user-friendly interface
 *  Works with publicly hosted CSV data from Dropbox (no local data upload required)
 
@@ -46,11 +46,11 @@ Then open the app in your browser at [http://localhost:8501](http://localhost:85
 
 ## 📝 How it works
 
-* Pulls **hospital info and HCAHPS survey results** from Dropbox-hosted CSV files
+* Pulls hospital info and HCAHPS survey results from Dropbox-hosted CSV files
 * User selects a hospital and metrics from dropdown menus
-* Generates a **comparison table** and **bar chart** showing the hospital’s performance
+* Generates a comparison table and bar chart showing the hospital’s performance
 * Highlights areas where the hospital is above or below benchmarks
-* Option to **export a PowerPoint report** including the table and chart
+* Option to export a PowerPoint report including the table and chart
 
 ## Technologies Used
 
